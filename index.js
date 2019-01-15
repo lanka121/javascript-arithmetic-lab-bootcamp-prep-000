@@ -21,4 +21,4 @@ console.log(number)
 
 divideBy3()
 
-console
+console.log(number)
