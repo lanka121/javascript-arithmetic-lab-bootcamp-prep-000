@@ -20,6 +20,5 @@ function dec(n){
   return --n
 }
 function makeInt(n){
-  return parseInt(n)
-  return parseInt(9000)
+  return parseInt(n,10)
 }
